@@ -1,0 +1,81 @@
+
+
+body {
+    background-color: #FFFFFF;
+    color: #212121;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+  }
+  
+ a {
+    color: #212121;
+    cursor: pointer;
+ }
+
+.logo a {
+    color: #2196f3;
+    font-family: "Relaway", sans-serif;
+    font-size: 26px;
+    line-height: 100%;
+    font-weight: 700;
+  }
+
+.contact a {
+    color: #757575;
+     font-size: 14px;
+     line-height: 100%;
+}
+
+.contact a:hover
+{
+    color: #2196f3; 
+     
+}
+
+.nav a { 
+    color: #212121;
+  font-size: 14px;
+  line-height: 100%;
+}
+
+.nav a:hover
+{
+    color: #2196f3; 
+}
+
+button:hover {
+color: #FFFFFF;
+background-color: #2196f3;
+border: 1px #2196f3;
+cursor: pointer;
+}
+
+h3{
+    font-size: 18px;
+    line-height: 171%;
+    font-weight: 700;
+}
+
+p{
+    color: #757575;
+    font-size: 16px;
+    line-height: 160%;
+    font-weight: 400;
+}
+
+footer {
+    background-color: #2F303A;
+    width: 1600px;
+    height: 252px;
+}
+
+.address a {
+    color: #FFFFFF;
+    width: 1600px;
+    height: 252px;
+}
+
+.address a:hover
+{
+    color: #2196f3; 
+}
